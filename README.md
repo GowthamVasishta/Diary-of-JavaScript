@@ -5,5 +5,6 @@
 > Any application that can be written in JavaScript, will eventually be written in JavaScript. -Jeff Atwood 
 
 ## How to use the book
+
  Well . . . no particular way to mention ! Move at your own pace and comfort. And a suggestion, type out each block of code by yourself (rather then scanning it ! ) . It will help you to understand better.
 
