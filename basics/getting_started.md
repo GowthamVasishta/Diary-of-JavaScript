@@ -21,11 +21,7 @@ JS code is directly embedded between the `<script> . . . </script>` tags. Let us
     </body>
     </html>
     
-<<<<<<< HEAD
 Save this file as `internal.html` and run it on your favorite browser software. The output would be . . . yes ! you guessed correct ! 
-=======
-Save this file as `.html` extension and run it on your favourite browser software. The output would be . . . yes ! you guessed correct ! 
->>>>>>> 920f97212c4bfeba434d63c0707c44dee883cd9a
 
     Hello world !
 
@@ -33,7 +29,6 @@ Let us understand the code, bit by bit ! First of all , in the head section, our
 
     var a = "Hello world !";
     
-<<<<<<< HEAD
 Then we are writing the contents of variable ` a ` to the present HTML document !. Alright let us have a look on external implementation.
 
 ### External implementation
