@@ -8,3 +8,7 @@
 
  Well . . . no particular way to mention ! Move at your own pace and comfort. And a suggestion, type out each block of code by yourself (rather then scanning it ! ) . It will help you to understand better.
 
+<<<<<<< HEAD
+=======
+> Any application that can be written in JavaScript, will eventually be written in JavaScript.  -Jeff Atwood 
+>>>>>>> 567b58c33b670b65afbc010b8e29a52016a1e34c
